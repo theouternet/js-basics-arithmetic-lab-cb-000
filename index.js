@@ -16,4 +16,4 @@ let randomNumber = Math.random(0,20)
 
 let randomInteger = Math.floor(randomNumber)
 
-let randomUserID = Math.random()
+let randomUserID = Math.random(1000000001, 1000000020)
